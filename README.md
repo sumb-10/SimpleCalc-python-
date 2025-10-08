@@ -142,7 +142,7 @@ simplecalc/
 
 **Jo Hojin**
 Department of Computer Science
-💼 GitHub: [@<YOUR_ID>](https://github.com/<YOUR_ID>)
+💼 GitHub: [@sumb-10](https://github.com/sumb-10)
 
 ---
 
